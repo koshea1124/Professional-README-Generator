@@ -57,14 +57,14 @@ const questions = [
 function writeToFile(fileName, data) {
     return new Promise((resolve, reject) => {
         //path for README file
-        fs.writeFile('.dist/README.md', data, err => {
+        fs.writeFile('./dist/README.md', data, err => {
             if (err) {
                 reject (err);
                 return;
             }
             resolve ({
                 ok: true,
-                message: console.log ('Congratulations, the (Generated)README.md file has beeen successfully created! Go find the file in the distfolder.')
+                message: console.log ('Congratulations, the (Generated)README.md file has beeen successfully created! Go find the file in the dist folder.')
             });
         })
     })
