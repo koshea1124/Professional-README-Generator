@@ -55,6 +55,8 @@ You will be prompted with all the important questions that will autogenerate you
 Your README will be generated and placed in the "dist" folder.
 
 ##  Screenshot
+![image](https://github.com/koshea1124/Professional-README-Generator/assets/119077249/5e761a03-87cf-4f4c-816e-1614ab357d2e)
+
 
 ##  Demonstration
 Link to YouTube Video:
