@@ -6,6 +6,16 @@ Having a README file on GitHub is crucial for several reasons. Firstly, it serve
 A README generator can provide significant benefits in streamlining the process of creating a comprehensive and well-structured README file. Firstly, it saves valuable time and effort by automating the initial setup and formatting of the document. Instead of starting from scratch, a README generator offers pre-defined templates or prompts that guide users through the necessary sections, ensuring consistency and completeness. This simplifies the task, especially for individuals who may be less experienced in writing documentation or unsure of what information to include. Secondly, a README generator promotes consistency across projects within an organization or among collaborators. By using a standardized template, it helps maintain a unified format, style, and content structure, making it easier for users to navigate and understand different projects. This consistency enhances the overall professionalism and readability of documentation across the board. Lastly, a README generator encourages the inclusion of essential information. It prompts users to provide key details such as project description, installation instructions, usage examples, contribution guidelines, and contact information. This ensures that critical information is not overlooked, leading to more informative and user-friendly README files. In summary, a README generator offers time-saving benefits, promotes consistency, and encourages the inclusion of crucial details, making it a valuable tool for efficiently creating high-quality README files.
 
 ##  Table of Contents
+- [Overview](#overview)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshot](#screenshot)
+- [Demonstration](#demonstration)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+- [Credits](#credits)
+  
 ##  Overview
 ### The Challenge
 When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions—this last part increases the likelihood that other developers will contribute to the success of the project.You can quickly and easily generate a README file by using a command-line application to generate one. This allows the project creator to devote more time working on the project. My task is to create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package
@@ -61,7 +71,7 @@ Your README will be generated and placed in the "dist" folder.
 
 
 ##  Demonstration
-Link to YouTube Video:
+Link to YouTube Video: [Module 9 Challenge Video](https://www.youtube.com/watch?v=JRVAgsmGMn4)
 
 ##  Licenses
 N/A
