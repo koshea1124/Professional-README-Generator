@@ -56,6 +56,8 @@ Your README will be generated and placed in the "dist" folder.
 
 ##  Screenshot
 ![image](https://github.com/koshea1124/Professional-README-Generator/assets/119077249/5e761a03-87cf-4f4c-816e-1614ab357d2e)
+![image](https://github.com/koshea1124/Professional-README-Generator/assets/119077249/870aac58-2e07-4627-8c3f-e64d22bc6c68)
+
 
 
 ##  Demonstration
